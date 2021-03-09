@@ -104,3 +104,4 @@ bottomInfo.textContent = "123 Way 456 Street";
 
 const footerp = document.querySelector("footer");
 footerp.textContent = "Copyright Great Idea! 2018";
+;
